@@ -1,0 +1,20 @@
+1 - Table creation for the datasets:
+	All dataframes has the same columns name.
+	From the ca_2012_01 foward the column produto has changed the data data from VARCHAR(8) to VARCHAR(50).
+
+2 - Counting nulls in every table:
+	Important to show how much data is missing by each year.
+	That information can show how reliable data can be by given year.
+	The columns that most have nulls values are numeroru, complemento, bairro and valordecompra.
+	Has a problem of scope in the query must need to research another way to make it better to run.
+
+3 - Adding a column to refer each year and semester of data 
+	Adding column to all tables named 'semester'.
+	Adding the values respective to the year and semester of each given table.	
+
+4 - Doing basic statistics querys
+	Analyse possiblitys of querys whose can make easier to check data from multiple tables.
+	Creating temp table for statistical data about buying and selling prices.
+	Comparison of the price evolution of different types of fuel.
+	Comparison of the price by region and state.
+	Top reseller of fuel on the country by cnpj branchs.
