@@ -17,4 +17,7 @@
 	Creating temp table for statistical data about buying and selling prices.
 	Comparison of the price evolution of different types of fuel.
 	Comparison of the price by region and state.
-	Top reseller of fuel on the country by cnpj branchs.
+	Top reseller of fuel on the country by cnpj branchs. (In this step i had a problem with the compilation of data.)
+	Creating and exporting tables for be used on tableau.
+
+5 - Data visualization on Tableau
